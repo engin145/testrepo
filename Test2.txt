@@ -1,3 +1,4 @@
 bbbbb
+second line by vitaliy
 последняя (добавил в строку) стрка
 проверка
