@@ -1,7 +1,0 @@
-первая строка леонид
-bbbbb
-second line by vitaliy
-2 строка leonid
-последняя (добавил в строку) стрка
-проверка
-finish line vitaliy
